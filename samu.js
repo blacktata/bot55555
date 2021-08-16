@@ -151,7 +151,7 @@ message: {
 "title": `🚫No se permiten las llamadas🚫`,
 "description": "",
 "currencyCode": "SYP",
-"priceAmount1000": "999999999999999999",
+"priceAmount1000": "PUTA SI LEES ESTO",
 "retailerId": "",
 "productImageCount": 999
 },
